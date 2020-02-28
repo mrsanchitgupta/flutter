@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1012282484057",
+    "firebase_url": "https://sanvid-e55b9.firebaseio.com",
+    "project_id": "sanvid-e55b9",
+    "storage_bucket": "sanvid-e55b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012282484057:android:0647e66afa5bcf2ca89848",
+        "android_client_info": {
+          "package_name": "com.example.sanvid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012282484057-k4073bhbu09t9arbuqq3s9qmp01i3h13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvAmhvvE24DZ9Ugh1Rv02vaG4Nrv6517I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012282484057-k4073bhbu09t9arbuqq3s9qmp01i3h13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
